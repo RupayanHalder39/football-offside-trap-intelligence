@@ -1,0 +1,26 @@
+{
+  "n_frames_attacking_team1": 3597,
+  "n_frames_attacking_team0": 3597,
+  "defending_goal_x_measured": {
+    "team0_defends_x": 11167.86,
+    "team1_defends_x": 1409.54
+  },
+  "run_type_counts_team1_attacking": {
+    "lateral": 23993,
+    "diagonal": 7660,
+    "straight": 4574,
+    "unknown": 664
+  },
+  "onside_counts_team1_attacking": {
+    "True": 22190,
+    "False": 14701
+  },
+  "break_potential_counts_team1_attacking": {
+    "HIGH": 2914,
+    "None": 664,
+    "MEDIUM": 2664,
+    "LOW": 30649
+  },
+  "n_high_break_events_both_directions": 409,
+  "elapsed_sec": 12.5
+}
